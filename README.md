@@ -40,6 +40,7 @@ struct TypeAliases_Previews: PreviewProvider {
 
 ## How to name constants and variables with characters
 Swift alows you to name variables and constants using characters, including Unicode. [CharacterConstantVariableNames.swift](https://gist.github.com/amosgyamfi/cf9fa33b4a5588788a2403429f3fa9d1#file-characterconstantvariablenames-swift)
+
 ![Characters as constant and variable names](https://github.com/GetStream/enter-swift/blob/main/GifPreviews/characterNames.png)
 
 

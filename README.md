@@ -1,4 +1,4 @@
-# The AI Agent Tools Catalog
+# ⚒️ The AI Agent Tools Catalog 🛠️
 
 ## Discover a repository of tools to plug and play your AI agents easily. 
 

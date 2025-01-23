@@ -2,6 +2,8 @@
 
 ## Discover a repository of tools to plug and play your AI agents easily. 
 
+![AI Agent Tools](GifPreviews/ai_agent_tools.png)
+
 | Tool/Toolkit | Description | Pricing |
 |-------------|-------------|----------|
 | [Arxiv](https://arxiv.org/) | Tools to read arXiv papers | Free |

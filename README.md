@@ -28,7 +28,7 @@
 | [SearchApi](https://www.searchapi.io/) | Web search API | 100 Free Searches on Sign Up |
 | [SearxNG Search](https://searx.space/) | Self-hosted metasearch engine | Free |
 | [SerpAPI](https://serpapi.com/) | Real-time search engine results API | 100 Free Searches/Month |
-| [StackOne](https://docs.stackone.com/agents/typescript/introduction) | API toolset for AI agents with 100+ business system integrations (HR, ATS, CRM, etc.) via TypeScript & Python SDKs, MCP & A2A | Free/Paid |
+| [StackOne](https://docs.stackone.com/agents/typescript/introduction) | Toolset with 100+ business system integrations (HR, ATS, CRM, etc.) accessible via TypeScript or Python SDKs, MCP & A2A | Free/Paid |
 | [Tavily Search](https://tavily.com/) | Search engine built specifically for AI agents | 1000 free searches/month |
 | [TXT Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching text files | Free |
 | [Website Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching websites | Free |

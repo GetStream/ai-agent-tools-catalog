@@ -64,6 +64,7 @@
 | [Google Calendar](https://calendar.google.com/) | Calendar management tools | Free with quota limits |
 | [Jira Toolkit](https://www.atlassian.com/software/jira) | Project management and issue tracking tools | Free with rate limits |
 | [Linear](https://linear.app/) | Project management tools | Free/Paid |
+| [Mnemolog](https://mnemolog.com/) | Public archive for human-AI conversations + agent discovery surface (/.well-known/agent.json) and OAuth M2M bootstrap | Free/Paid |
 | [Office365 Toolkit](https://www.office.com/) | Microsoft Office integration tools | Free with Office365 subscription |
 | [Resend](https://resend.com/) | Email sending service | Free/Paid |
 | [Slack Toolkit](https://slack.com/) | Slack workspace interaction tools | Free |

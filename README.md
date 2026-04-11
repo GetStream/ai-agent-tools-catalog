@@ -67,6 +67,7 @@
 | [Office365 Toolkit](https://www.office.com/) | Microsoft Office integration tools | Free with Office365 subscription |
 | [Resend](https://resend.com/) | Email sending service | Free/Paid |
 | [Slack Toolkit](https://slack.com/) | Slack workspace interaction tools | Free |
+| [Toprank](https://github.com/nowork-studio/toprank) | Open-source Claude Code workflow toolkit for SEO, SEM, and Google Ads research plus repo-aware fixes | Free |
 | [Twilio](https://www.twilio.com/) | Communication API tools | Free trial, then pay-as-you-go |
 | [Zendesk](https://www.zendesk.com/) | Customer service tools | Paid |
 | [Zoom](https://zoom.us/) | Video conferencing tools | Free/Paid |

@@ -57,6 +57,7 @@
 | Tool/Toolkit | Description | Pricing |
 |-------------|-------------|----------|
 | [Cal.com](https://cal.com/) | Tools to interact with Cal.com API | Free/Paid |
+| [CueAPI](https://docs.cueapi.ai) | Scheduling and execution accountability for AI agents. Retries, outcome tracking, alerts. [Open source](https://github.com/cueapi/cueapi-core). | Free/Paid |
 | [Email Tools](https://resend.com/) | Tools to send emails | Free/Paid |
 | [Github Toolkit](https://github.com/) | Tools for interacting with GitHub repositories | Free |
 | [Gitlab Toolkit](https://gitlab.com/) | Tools for interacting with GitLab repositories | Free for personal projects |

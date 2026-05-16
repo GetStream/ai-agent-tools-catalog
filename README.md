@@ -66,6 +66,7 @@
 | [Linear](https://linear.app/) | Project management tools | Free/Paid |
 | [Office365 Toolkit](https://www.office.com/) | Microsoft Office integration tools | Free with Office365 subscription |
 | [Resend](https://resend.com/) | Email sending service | Free/Paid |
+| [Sequenzy](https://sequenzy.com/) | Email marketing and transactional email platform with CLI/API workflows for AI agents | Free/Paid |
 | [Slack Toolkit](https://slack.com/) | Slack workspace interaction tools | Free |
 | [Twilio](https://www.twilio.com/) | Communication API tools | Free trial, then pay-as-you-go |
 | [Zendesk](https://www.zendesk.com/) | Customer service tools | Paid |

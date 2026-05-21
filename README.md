@@ -90,6 +90,7 @@
 | [Selenium Scraping](https://github.com/crewAIInc/crewAI-tools) | Selenium-based web scraping tool | Free |
 | [Spider](https://scrapy.org/) | Tools to crawl websites | Free |
 | [Website Tools](https://beautiful-soup-4.readthedocs.io/) | Tools to scrape websites | Free |
+| [AgentKey](https://github.com/chainbase-labs/Agentkey) | Unified MCP server that gives any AI agent (Claude, Cursor, n8n) one-install access to web search, structured scraping, and 20+ social platforms (X, TikTok, Reddit, LinkedIn, Xiaohongshu) plus crypto / on-chain data | Free tier + paid |
 
 ## Database
 

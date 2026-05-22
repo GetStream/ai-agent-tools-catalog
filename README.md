@@ -79,6 +79,7 @@
 | [Crawl4AI](https://crawl4ai.com/) | Tools to crawl web data | Contact for pricing |
 | [Firecrawl](https://firecrawl.co/) | Tools to crawl the web | Contact for pricing |
 | [Hyperbrowser Load](https://github.com/crewAIInc/crewAI-tools) | Advanced browser automation tool | Free |
+| [Komos](https://www.komos.ai/) | Browser workflow automation platform with API triggers, schedules, evidence capture, and human review for portal based tasks | Paid |
 | [MultiOn Toolkit](https://multion.ai/) | AI agent for web browser automation | 40 free requests/day |
 | [Newspaper](https://newspaper.readthedocs.io/) | Tools to read news articles | Free |
 | [Newspaper4k](https://newspaper.readthedocs.io/) | Tools to read articles | Free |

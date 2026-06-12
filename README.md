@@ -115,3 +115,4 @@
 | [File Read](https://github.com/crewAIInc/crewAI-tools) | Tool for reading file contents | Free |
 | [File Writer](https://github.com/crewAIInc/crewAI-tools) | Tool for writing to files | Free |
 | [PDF Text Writing](https://github.com/crewAIInc/crewAI-tools) | Tool for writing text to PDFs | Free |
+| [Remio](https://remio.ai/) | Local-first AI memory and knowledge base tool for agents; parses files, webpages, recordings, emails, messages, and images into local indexes and vectors for faster context retrieval than repeated directory scans or whole-file reads | See website |

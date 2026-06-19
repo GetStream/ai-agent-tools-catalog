@@ -64,6 +64,7 @@
 | [Google Calendar](https://calendar.google.com/) | Calendar management tools | Free with quota limits |
 | [Jira Toolkit](https://www.atlassian.com/software/jira) | Project management and issue tracking tools | Free with rate limits |
 | [Linear](https://linear.app/) | Project management tools | Free/Paid |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | Free |
 | [Office365 Toolkit](https://www.office.com/) | Microsoft Office integration tools | Free with Office365 subscription |
 | [Resend](https://resend.com/) | Email sending service | Free/Paid |
 | [Slack Toolkit](https://slack.com/) | Slack workspace interaction tools | Free |

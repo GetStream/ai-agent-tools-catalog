@@ -115,3 +115,4 @@
 | [File Read](https://github.com/crewAIInc/crewAI-tools) | Tool for reading file contents | Free |
 | [File Writer](https://github.com/crewAIInc/crewAI-tools) | Tool for writing to files | Free |
 | [PDF Text Writing](https://github.com/crewAIInc/crewAI-tools) | Tool for writing text to PDFs | Free |
+| [PixelVault](https://pixelvault.dev/docs) | Agent-first image hosting — upload images via API or MCP for instant CDN URLs | Free/Paid |

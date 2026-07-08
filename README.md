@@ -104,6 +104,7 @@
 | [Snowflake Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching Snowflake databases | Free |
 | [Spark SQL Toolkit](https://spark.apache.org/) | Tools for Apache Spark SQL operations | Free |
 | [SQLDatabase Toolkit](https://python.langchain.com/) | Tools for SQL database operations | Free |
+| [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Local-first memory lifecycle layer for AI agents with SQLite/FTS recall, audit, forgetting, and consolidation | Free |
 | [Weaviate](https://github.com/crewAIInc/crewAI-tools) | Vector database search tool | Free |
 | [YFinance](https://pypi.org/project/yfinance/) | Tools to search Yahoo Finance | Free |
 

@@ -71,6 +71,14 @@
 | [Zendesk](https://www.zendesk.com/) | Customer service tools | Paid |
 | [Zoom](https://zoom.us/) | Video conferencing tools | Free/Paid |
 
+## Social Media
+
+| Tool/Toolkit | Description | Pricing |
+|-------------|-------------|----------|
+| [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) | MIT-licensed Hermes Agent plugin for Xquik-powered X reads and opt-in actions | Free plugin; Xquik access billed separately |
+
+The hosted Xquik service is closed source. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 ## Web Browsing
 
 | Tool/Toolkit | Description | Pricing |
@@ -81,7 +89,7 @@
 | [Hyperbrowser Load](https://github.com/crewAIInc/crewAI-tools) | Advanced browser automation tool | Free |
 | [MultiOn Toolkit](https://multion.ai/) | AI agent for web browser automation | 40 free requests/day |
 | [Newspaper](https://newspaper.readthedocs.io/) | Tools to read news articles | Free |
-| [Newspaper4k](https://newspaper.readthedocs.io/) | Tools to read articles | Free |
+| [Newspaper4k](https://newspaper4k.readthedocs.io/en/latest/) | Tools to read articles | Free |
 | [PlayWright Browser Toolkit](https://playwright.dev/) | Browser automation and testing framework | Free |
 | [Requests Toolkit](https://requests.readthedocs.io/) | HTTP library for making web requests | Free |
 | [Scrape Element From Website](https://github.com/crewAIInc/crewAI-tools) | Tool for scraping specific elements | Free |

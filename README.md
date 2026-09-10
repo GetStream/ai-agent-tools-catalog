@@ -56,6 +56,7 @@
 
 | Tool/Toolkit | Description | Pricing |
 |-------------|-------------|----------|
+| [ContextStream](https://contextstream.io) | Shared project context for Cursor, Claude Code, Codex, Grok via MCP | Free tier / Paid |
 | [Cal.com](https://cal.com/) | Tools to interact with Cal.com API | Free/Paid |
 | [Email Tools](https://resend.com/) | Tools to send emails | Free/Paid |
 | [Github Toolkit](https://github.com/) | Tools for interacting with GitHub repositories | Free |

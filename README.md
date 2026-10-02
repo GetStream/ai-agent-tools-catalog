@@ -10,6 +10,7 @@
 | [BaiduSearch](https://www.baidu.com/) | Chinese search engine | Free |
 | [Bing Search](https://www.bing.com/) | Bing Search is an Azure service and enables safe, ad-free, location-aware web search | Paid |
 | [Brave Search](https://search.brave.com/) | Web search tool using Brave's search engine | Free |
+| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | Base x402 AI research report ($2 USDC) + chat ($0.001) API for agents | Paid (USDC micropay) |
 | [Code Docs Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching code documentation | Free |
 | [CSV Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching CSV files | Free |
 | [Directory Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching directories | Free |

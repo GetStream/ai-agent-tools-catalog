@@ -16,8 +16,14 @@
 | [DOCX Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching Word documents | Free |
 | [DuckDuckGo Search](https://duckduckgo.com/) | Privacy-focused web search engine | Free |
 | [Exa Search](https://exa.ai/) | Search engine fully designed for use by LLMs | 1000 free searches/month |
+| [Google Images Search API (FlashData)](https://flashdata.dev/docs/sources/google_images) | Search image URLs, thumbnails and source pages; does not download or license images. | Paid Credits; API key |
+| [Google News Search API (FlashData)](https://flashdata.dev/docs/sources/google_news) | Search Google News headlines, publication details and links; not full articles. | Paid Credits; API key |
+| [Google Places Search API (FlashData)](https://flashdata.dev/docs/sources/google_places) | Search local businesses and places with available addresses, ratings and contact fields. | Paid Credits; API key |
 | [Google Search](https://www.google.com/) | Traditional Google web search capabilities | Paid |
+| [Google Search Results API (FlashData)](https://flashdata.dev/docs/sources/google_search) | Retrieve structured Google web results, links and snippets; not full-page extraction. | Paid Credits; API key |
 | [Google Serper](https://serper.dev/) | Google search API alternative | Free |
+| [Google Shopping Search API (FlashData)](https://flashdata.dev/docs/sources/google_shopping) | Retrieve Google Shopping product links, merchants and displayed prices; no stock guarantee. | Paid Credits; API key |
+| [Google Video Search API (FlashData)](https://flashdata.dev/docs/sources/google_videos) | Find video results across websites through Google Videos search. | Paid Credits; API key |
 | [HackerNews](https://news.ycombinator.com/) | Tools to read Hacker News articles | Free |
 | [Jina Search](https://jina.ai/) | Neural search engine | 1M Response Tokens Free |
 | [JSON Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching JSON files | Free |
@@ -34,8 +40,17 @@
 | [Wikipedia](https://www.wikipedia.org/) | Tools to search Wikipedia | Free |
 | [XML Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching XML files | Free |
 | [You.com Search](https://you.com/) | AI-first search engine | Free for 60 days |
+| [YouTube Autocomplete API (FlashData)](https://flashdata.dev/docs/sources/youtube_suggestions) | Retrieve YouTube autocomplete phrases from a prefix; not search-volume measurements. | Paid Credits; API key |
+| [YouTube Channel Data API (FlashData)](https://flashdata.dev/docs/sources/youtube_channel) | Retrieve a channel profile and recent videos by handle; not a complete historical archive. | Paid Credits; API key |
 | [YouTube Channel Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching YouTube channels | Free |
+| [YouTube Download to Cloud Storage API (FlashData)](https://flashdata.dev/docs/sources/youtube_download) | Submit asynchronous video or audio downloads to customer cloud storage; paid delivery. | Paid Credits; API key |
+| [YouTube Extended Search API (FlashData)](https://flashdata.dev/docs/sources/youtube_search_extended) | Search YouTube with a requested limit up to 700; separate rate, results may be fewer. | Paid Credits; API key |
+| [YouTube License Metadata API (FlashData)](https://flashdata.dev/docs/sources/youtube_trainability) | Read video license metadata for a Creative Commons label; does not grant training rights. | Paid Credits; API key |
+| [YouTube Transcript API (FlashData)](https://flashdata.dev/docs/sources/youtube_transcript) | Read existing YouTube transcript segments and text, defaulting to automatic captions; no ASR. | Paid Credits; API key |
+| [YouTube Uploader Captions API (FlashData)](https://flashdata.dev/docs/sources/youtube_captions) | Read existing uploader-caption segments and text; no generation, translation or automatic fallback. | Paid Credits; API key |
+| [YouTube Video Metadata API (FlashData)](https://flashdata.dev/docs/sources/youtube_metadata) | Retrieve video metadata, available format information and chapters by video ID. | Paid Credits; API key |
 | [YouTube Video Search](https://github.com/crewAIInc/crewAI-tools) | Tool for searching YouTube videos | Free |
+| [YouTube Video Search API (FlashData)](https://flashdata.dev/docs/sources/youtube_search) | Search YouTube videos by keyword with a requested result limit of 1 to 20. | Paid Credits; API key |
 
 ## Code Interpreter
 
